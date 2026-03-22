@@ -1,7 +1,7 @@
 # 💻 C++ Programs Repository
 
 Welcome to my C++ repository! 🚀
-This repository contains a collection of C++ programs ranging from basic concepts to advanced topics, created as part of my learning journey and academic practice.
+This repository contains a collection of C++ programs ranging from basic to advanced concepts, developed as part of my learning journey and academic practice at CDAC. It reflects my hands-on experience in strengthening programming fundamentals and building problem-solving skills.
 
 ---
 
